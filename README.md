@@ -5,7 +5,7 @@
 🎮 I’m actively seeking full-time opportunities in software development and looking forward to new challenges.  
 🎓 I hold a Master's in Applied Computer Science and an MBA, equipping me with a strong foundation in both tech and management.  
 🤝 I’m open to collaborating on web application development projects involving game development, data science, and AI.  
-📫 Feel free to connect with me on LinkedIn
+📫 Feel free to connect with me on LinkedIn 
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I developed a chemistry quiz game for students at Northwest Missouri State University that combines learning with fun – it was well-received by both the client and our project instructor!  
 
