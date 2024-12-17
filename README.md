@@ -1,5 +1,5 @@
 👋 Hi, I’m @SaiKrishnaReddySeelam  
-👀 I’m passionate about software engineering, web application development, game development, and database systems. With over 5 years of experience, I blend both technology and management expertise.  
+👀 I’m passionate about software engineering, web application development, game development, and database systems. With over 5    years of experience, I blend both technology and management expertise.  
 🌱 Currently, I’m pursuing a career in full-stack web development, specializing in Java, JavaScript, TypeScript, SQL, and diving deep into advanced topics like distributed databases and AI.  
 💻 My technical stack includes Java, Python, Godot, Node.js, MySQL, Tableau, and much more.  
 🎮 I’m actively seeking full-time opportunities in software development and looking forward to new challenges.  
